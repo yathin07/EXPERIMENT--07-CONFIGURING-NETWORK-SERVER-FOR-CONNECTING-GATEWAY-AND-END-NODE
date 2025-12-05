@@ -1,5 +1,7 @@
-### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+# EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+**NAME: Yathin Reddy T**
+**ROLL NO: 212223100062**
+**DEPARTMENT: CSE(CS)**
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
@@ -21,24 +23,20 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 ## Procedure :
 
  1. login to the network server using login link  https://iot.saveetha.in/
- 2. Click on the nework server as shown blow
-    
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
+ 2. Click on the nework server
+  
  3. Click on the add gateway 
- 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
-4. Click on the lora options , lora - frequency plan 
+ <img width="1662" height="954" alt="image" src="https://github.com/user-attachments/assets/70c772bb-d23d-4f1e-ad0e-0229a0ba6556" />
 
-5. Click on channels and create a new channel after which you can add a new end device
-   
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
+4. Click on the lora options , lora - frequency plan 
+<img width="1491" height="928" alt="image" src="https://github.com/user-attachments/assets/0e671a7a-a7cb-448a-a270-79f00e73662b" />
+
+5. Click on devices then click add
 
 6. Add the attributes in the end device as  shown below 
 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
- 
+<img width="1593" height="1009" alt="image" src="https://github.com/user-attachments/assets/0020ac85-f28e-441d-9478-aa8da48bedd5" />
+
 7.Using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -56,6 +54,9 @@ To set APP Key
 
 
 ## OUTPUT 
+<img width="1631" height="980" alt="image" src="https://github.com/user-attachments/assets/b547b70e-5446-40bd-8205-e936ebcb541c" />
+
+
 
 
 ## Result: 
